@@ -3,7 +3,7 @@
 
 1.  找工作：
 job street（Singapore）: pause.
-2. Study Front-end :  Goal: CSS P460.（or 450）
+2. Study Front-end :  Goal: CSS P460.（or 450）。pause，原因详见6.
 3. Investment:  SPX-index: 5460.  NVDA:123.54 （2024.6.28）
 Study: 
 （1）What is NVDL and  期权基础知识?
