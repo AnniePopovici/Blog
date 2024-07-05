@@ -11,7 +11,7 @@ Study:
 （3）了解 入金、出金费用，wise转账手续费。
 4. Cook: pause.
 5.  Reading/watching Notes: 
-(1) 《数学的力量》ChapterOne.
+(1) 《如月疑云》，好看。
 (2)
 6. Start a business：充电宝加盟，配存。 （考虑亚马逊开店？）
 Threads：
