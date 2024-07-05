@@ -13,7 +13,7 @@ Study:
 5.  Reading/watching Notes: 
 (1) 《数学的力量》ChapterOne.
 (2)
-6. Start a business：充电宝加盟，存存。 （考虑亚马逊开店？）
+6. Start a business：充电宝加盟，配存。 （考虑亚马逊开店？）
 Threads：
 (1) Migration为  餐馆、职业技术学校。 方向为 EU or Japan.
 （2）继续学习前端。了解ML。
