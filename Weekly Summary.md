@@ -4,7 +4,7 @@
 1.  找工作：
 job street（Singapore）: pause.
 2. Study Front-end :  Goal: CSS P460.（or 450）。pause，原因详见6.以及复习品优购项目和html+css基础部分。
-3. Investment:  SPX-index: 5460.  NVDA:123.54 （2024.6.28）
+3. Investment:  SPX-index: 5567.  NVDA:125.83 （2024.7.5）本周NVDA继续调整，MagnificantSeven股票股票补涨，主要是tesla & Appple. 
 Study: 
 （1）What is NVDL and  期权基础知识?
 (2)Looking for next NVDA? 长期看好AI，关注其他板块机会。及出了芯片股其他AI利好行业（Apple?ACN），以及周期股（石油），降息受益股的机会。市场利好：7月4日为美国国庆日。上周NVDA调整，但市场较为平静，市场回调空间有限。周边股市（欧洲、亚太）调整，周边资金积极涌入市场。市场轮动是否结束取决于NVDA是否调整到位。关注VIX指数，在14.5以下都安全。NVDA反弹第一阻力位127，第二阻力位140。
