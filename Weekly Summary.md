@@ -12,8 +12,9 @@ Study:
 4. Cook: pause.
 5.  Reading/watching Notes: 
 (1) 《如月疑云》，好看。
-(2)
-6. Start a business：充电宝加盟，配存。 （考虑亚马逊开店？）
+(2) Podcast: <中年，人生的第二座山>： “第一座山：建造、定义自我，精英主义，内在计分牌。”
+(3) Podcast <宝库博客 VOL.30>： "工作狂是因为空虚选择了工作。" "80后是没有挨过饿的第一代，计划生育出生的第一代。"
+ 7. Start a business：充电宝加盟，配存。 （考虑亚马逊开店？）
 Threads：
 (1) Migration为  餐馆、职业技术学校。 方向为 EU or Japan.
 （2）继续学习前端。了解ML。
