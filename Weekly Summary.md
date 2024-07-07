@@ -15,7 +15,7 @@ Study:
 (2) Podcast: <中年，人生的第二座山>： “第一座山：建造、定义自我，精英主义，内在计分牌。”  
 (3) Podcast <宝库博客 VOL.30>： "工作狂是因为空虚选择了工作。" "80后是没有挨过饿的第一代，计划生育出生的第一代。"  "如果你是一个80后，到了今天你既没离婚又没负债，同时满足这两项的80后，绝对不超过总数的15%。"
     (4)   [一个月捞取1000万的捞女莉莉酱的【让大家一起赚钱的手册】] (https://www.bilibili.com/read/cv35624055/?spm_id_from=333.999.collection.opus.click "MYH推荐的")
-    
+   [奇文共赏：一个月捞取1000万的捞女莉莉酱的-让大家一起赚钱的手册] (<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1955882838&bvid=BV1jy411q7PH&cid=1594651186&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>)     
     
  7. Start a business：充电宝加盟，配存。 （考虑亚马逊开店？）  
 6. Threads：
