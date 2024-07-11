@@ -26,3 +26,27 @@ Study:
 7.有空的时候学：《数学的力量》，Apple Teacher（争取暑假完成），电工， 日语N2。
 ---
 ### (2024.7.8-7.12)
+
+1.  找工作：
+job street（Singapore）: pause.
+2. Study Front-end :  Goal: CSS P400。+ Review 品优购项目。
+3. Investment:  SPX-index: 5567.  NVDA:125.83 （2024.7.5）本周NVDA继续调整，MagnificantSeven股票股票补涨，主要是tesla & Appple. 
+Study: 
+（1）What is NVDL and  期权基础知识?  了解 入金、出金费用，wise转账手续费。
+(2)Looking for next NVDA? 长期看好AI，关注其他板块机会。本周热点：百度的robotaxi。关注特斯拉无人出租车进展。关注VIX指数，在14.5以下都安全。NVDA反弹第一阻力位127，第二阻力位140。
+（3）TSLA 本周大涨28%。
+5. Cook: pause.
+6.  Reading/watching Notes: 
+(1)   
+(2)  
+(3)
+ (4)   
+ 8. Start a business：充电宝加盟，配存：放弃，原因为报价不符合客户要求及客户自身健身房资源较少。 （考虑亚马逊开店？）  
+6. Threads：
+(1) Migration为  餐馆、职业技术学校。 方向为 EU or Japan.
+（2）继续学习前端。了解ML。
+（3）Cook学习路线-长期准备： 日料，粤菜，小吃：拉面、肉夹馍、煎饼果子。
+(4)Cook准备工作：治疗咳嗽(进行中),治疗腰肌劳损（坚持），锻炼上肢力量（坚持）。
+7.有空的时候学：《数学的力量》，Apple Teacher（争取暑假完成），电工， 日语N2。
+8.暑假阅读计划：《数学的力量》，Apple Teacher， 日语基础：五十音。
+---
