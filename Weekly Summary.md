@@ -29,7 +29,7 @@ Study:
 
 1.  找工作：
 job street（Singapore）: pause.
-2. Study Front-end :  Goal: CSS P400。+ Review 品优购项目。
+2. Study Front-end : CSS P360。+ Review 品优购项目。
 3. Investment:  SPX500-index: 5615.  NVDA:129.24 （2024.7.12）.
 Study: 
 （1）What is NVDL and  期权基础知识? (Pause)  了解 入金、出金费用，wise转账手续费。Mainly deponds on bank.
