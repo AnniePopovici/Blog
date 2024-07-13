@@ -62,7 +62,7 @@ Study:
 (2)  
 (3)
  (4)     
-7.  Start a business：（考虑亚马逊开店？）  
+7.  Start a business：（考虑亚马逊开店？挖矿？）  
 8. Threads：无变化。
 9. 暑假阅读计划：《数学的力量》，Apple Teacher， 日语基础：五十音。
 10.有空的时候学：《数学的力量》，Apple Teacher（争取暑假完成），电工， 日语N2。
