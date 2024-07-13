@@ -58,7 +58,9 @@ Study:
 （3）"Buy on the rumor, Sell on the news."
 5. Cook: pause.
 6.  Reading/watching Notes: 
- (1)   
+ (1)  罗翔 -21天形成习惯:
+- 📚 今年给自己立的flag是少看手机，多看书，每天早中晚三次打开微信，每次不超过10分钟。
+- 📖 推荐阅读纸质书或电子书，避免过度依赖手机带来的短暂快乐。
 (2)  
 (3)
  (4)     
