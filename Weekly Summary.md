@@ -30,14 +30,14 @@ Study:
 1.  找工作：
 job street（Singapore）: pause.
 2. Study Front-end :  Goal: CSS P400。+ Review 品优购项目。
-3. Investment:  SPX-index: 5567.  NVDA:125.83 （2024.7.5）本周NVDA继续调整，MagnificantSeven股票股票补涨，主要是tesla & Appple. 
+3. Investment:  SPX500-index: 5615.  NVDA:129.24 （2024.7.12）.
 Study: 
-（1）What is NVDL and  期权基础知识?  了解 入金、出金费用，wise转账手续费。
-(2)Looking for next NVDA? 长期看好AI，关注其他板块机会。本周热点：百度的robotaxi。关注特斯拉无人出租车进展。关注VIX指数，在14.5以下都安全。NVDA反弹第一阻力位127，第二阻力位140。
-（3）TSLA 本周大涨28%。
+（1）What is NVDL and  期权基础知识? (Pause)  了解 入金、出金费用，wise转账手续费。Mainly deponds on bank.
+(2)Looking for next NVDA? 长期看好AI，关注其他板块机会。本周热点：百度的robotaxi。关注特斯拉无人出租车进展(Delay)。关注VIX指数，在14.5以下都安全。NVDA反弹第一阻力位127，第二阻力位140。
+（3） Bitcoin mining process? 
 5. Cook: pause.
 6.  Reading/watching Notes: 
-(1)   
+ (1)   <铁西区纪录片>15mins highlights.
 (2)  
 (3)
  (4)     
