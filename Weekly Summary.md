@@ -29,7 +29,7 @@ Study:
 
 1.  找工作：
 job street（Singapore）: pause.
-2. Study Front-end : CSS P360。+ Review 品优购项目。
+2. Study Front-end : CSS P360。+ Review 品优购项目。本周delay的原因为family issue and 给市政厅写信。
 3. Investment:  SPX500-index: 5615.  NVDA:129.24 （2024.7.12）.
 Study: 
 （1）What is NVDL and  期权基础知识? (Pause)  了解 入金、出金费用，wise转账手续费。Answer: 主要是银行收取的手续费。建议去HK办理银行卡。
@@ -42,6 +42,27 @@ Study:
 (3)
  (4)     
 7.  Start a business：充电宝加盟，配存：放弃，原因为报价不符合客户要求及客户自身健身房资源较少。 （考虑亚马逊开店？）  
+8. Threads：无变化。
+9. 暑假阅读计划：《数学的力量》，Apple Teacher， 日语基础：五十音。
+10.有空的时候学：《数学的力量》，Apple Teacher（争取暑假完成），电工， 日语N2。
+---
+### (2024.7.15-7.19)
+
+1.  找工作：
+job street（Singapore）: pause.
+2. Study Front-end : 目标 CSS P460。
+3. Investment:  SPX500-index: 5615.  NVDA:129.24 （2024.7.12）.
+Study: 
+（1）关注VIX指数，在14.5以下都安全。NVDA反弹第一阻力位127，第二阻力位140。
+(2) 长期看好AI，关注其他板块机会。关注 Robotaxi 受益股 和 降息受益股。
+（3） Bitcoin mining process? 
+5. Cook: pause.
+6.  Reading/watching Notes: 
+ (1)   
+(2)  
+(3)
+ (4)     
+7.  Start a business：（考虑亚马逊开店？）  
 8. Threads：无变化。
 9. 暑假阅读计划：《数学的力量》，Apple Teacher， 日语基础：五十音。
 10.有空的时候学：《数学的力量》，Apple Teacher（争取暑假完成），电工， 日语N2。
