@@ -17,7 +17,7 @@ Study:
     (4)   [一个月捞取1000万的捞女莉莉酱的【让大家一起赚钱的手册】] (https://www.bilibili.com/read/cv35624055/?spm_id_from=333.999.collection.opus.click "MYH推荐的")
    [奇文共赏：一个月捞取1000万的捞女莉莉酱的-让大家一起赚钱的手册] (https://www.bilibili.com/video/BV1jy411q7PH/?spm_id_from=333.999.0.0&vd_source=2e2d4277943349d3d98381fd284fced0)     
     
- 7. Start a business：充电宝加盟，配存。 （考虑亚马逊开店？）  ( 挖矿？)
+ 7. Start a business：充电宝加盟，配存。 （考虑亚马逊开店？挖矿？） 
 6. Threads：
 (1) Migration为  餐馆、职业技术学校。 方向为 EU or Japan.
 （2）继续学习前端。了解ML。
