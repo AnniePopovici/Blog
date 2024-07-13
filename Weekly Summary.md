@@ -32,7 +32,7 @@ job street（Singapore）: pause.
 2. Study Front-end : CSS P360。+ Review 品优购项目。
 3. Investment:  SPX500-index: 5615.  NVDA:129.24 （2024.7.12）.
 Study: 
-（1）What is NVDL and  期权基础知识? (Pause)  了解 入金、出金费用，wise转账手续费。Mainly deponds on bank.
+（1）What is NVDL and  期权基础知识? (Pause)  了解 入金、出金费用，wise转账手续费。Answer: 主要是银行收取的手续费。建议去HK办理银行卡。
 (2)Looking for next NVDA? 长期看好AI，关注其他板块机会。本周热点：百度的robotaxi。关注特斯拉无人出租车进展(Delay)。关注VIX指数，在14.5以下都安全。NVDA反弹第一阻力位127，第二阻力位140。
 （3） Bitcoin mining process? 
 5. Cook: pause.
