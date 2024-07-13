@@ -55,7 +55,7 @@ job street（Singapore）: pause.
 Study: 
 （1）关注VIX指数，在14.5以下都安全。NVDA反弹第一阻力位127，第二阻力位140。
 (2) 长期看好AI，关注其他板块机会。关注 Robotaxi 受益股 和 降息受益股。
-（3） Bitcoin mining process? 
+（3）"Buy on the rumor, Sell on the news."
 5. Cook: pause.
 6.  Reading/watching Notes: 
  (1)   
