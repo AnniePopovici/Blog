@@ -52,10 +52,11 @@ Study:
 job street（Singapore）: pause.
 2. Study Front-end : 目标 CSS P460。
 3. Investment:  SPX500-index: 5615.  NVDA:129.24 （2024.7.12）.
-Study: 
+Hint: 
 （1）关注VIX指数，在14.5以下都安全。NVDA反弹第一阻力位127，第二阻力位140。
 (2) 长期看好AI，关注其他板块机会。关注 Robotaxi 受益股 和 降息受益股。
 （3）"Buy on the rumor, Sell on the news."
+(4) LongBridge开户完毕，从Revolut入金银行没有手续费。下周关注出金和银行卡绑定流程。
 5. Cook: pause.
 6.  Reading/watching Notes: 
  (1)  罗翔 -21天形成习惯:
@@ -67,5 +68,5 @@ Study:
 7.  Start a business：（考虑亚马逊开店？挖矿？）  
 8. Threads：无变化。
 9. 暑假阅读计划：《数学的力量》，Apple Teacher， 日语基础：五十音。
-10.有空的时候学：《数学的力量》，Apple Teacher（争取暑假完成），电工， 日语N2。
+10.有空的时候学：电工， 日语N2。
 ---
