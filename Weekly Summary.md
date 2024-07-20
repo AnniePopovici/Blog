@@ -64,10 +64,8 @@ Hint:
 10.有空的时候学：电工， 日语N2。
 ---
 ### (2024.7.22-7.26)
-1.  找工作：
-job street（Singapore）: pause.
-了解商业尽调员的机会。
-2. Study Front-end : 目标 CSS P530。
+1.  找工作：job street（Singapore）-pause。 了解、积累Chef,Coder的工作要求。 了解商业尽调员的机会。<br>
+2.Study Front-end : 目标 CSS P530。  
 3. Investment: SPX500-index: NVDA:（2024.7.26）.<br>
 Hint: 
 （1）关注其他板块机会(川普交易、Robotaxi 受益股 、降息受益股、小盘股、Bitcoin ETF、及做空机会）
