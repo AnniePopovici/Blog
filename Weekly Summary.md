@@ -44,16 +44,14 @@ Study:
 10.有空的时候学：《数学的力量》，Apple Teacher（争取暑假完成），电工， 日语N2。
 ---
 ### (2024.7.15-7.19)
-
 1.  找工作：
 job street（Singapore）: pause.
-2. Study Front-end : 目标 CSS P460。
-3. Investment:  SPX500-index: 5615.  NVDA:129.24 （2024.7.12）.
+2. Study Front-end : 移动端 430（计划460）。Delay原因为有一天喝多了。
+3. Investment:SPX500-index: 5505. NVDA:117.93。 VIX-index:16.52（2024.7.19）。<br>
 Hint: 
-（1）关注VIX指数，在14.5以下都安全。NVDA反弹第一阻力位127，第二阻力位140。
-(2) 长期看好AI，关注其他板块机会。关注 Robotaxi 受益股 和 降息受益股。
-（3）"Buy on the rumor, Sell on the news."
-(4) LongBridge开户完毕，从Revolut入金银行没有手续费。下周关注出金和银行卡绑定流程。
+（1）已出售NVDA。 目前空仓。原因为：前期获利了解及太多不确定性（川普、降息、M7股票整体回调、风格转换不明确、大盘调整迹象明显）
+(2) 长期看好AI，But 关注其他板块机会(川普交易、Robotaxi 受益股 、降息受益股、小盘股、Bitcoin ETF、及做空机会）
+（3） LongBridgeSec开户完毕，从Revolut入金银行没有手续费。下周关注出金和银行卡绑定流程。
 5. Cook: pause.
 6.  Reading/watching Notes: 
  (1)  罗翔 -21天形成习惯: 📚 今年给自己立的flag是少看手机，多看书，每天早中晚三次打开微信，每次不超过10分钟。📖 推荐阅读纸质书或电子书，避免过度依赖手机带来的短暂快乐。<br>
@@ -65,3 +63,21 @@ Hint:
 10. 暑假阅读计划：《数学的力量》，Apple Teacher， 日语基础：五十音。
 10.有空的时候学：电工， 日语N2。
 ---
+### (2024.7.22-7.26)
+1.  找工作：
+job street（Singapore）: pause.
+了解商业尽调员的机会。
+3. Study Front-end : 目标 CSS P530。
+4. Investment: SPX500-index: NVDA:（2024.7.26）.<br>
+Hint: 
+（1）关注其他板块机会(川普交易、Robotaxi 受益股 、降息受益股、小盘股、Bitcoin ETF、及做空机会）
+(2)  AI 短期内不会大涨
+（3） 了解出金和银行卡绑定流程。
+(4) LongBridge开户完毕，从Revolut入金银行没有手续费。下周关注出金和银行卡绑定流程。
+5. Cook: pause.
+6.  Reading/watching Notes: 
+ (1)(2) (3)(4)     
+8.  Start a business：（考虑亚马逊开店？挖矿？）  
+9. Threads：无变化。
+10. 暑假学习/阅读计划：《数学的力量》，Apple Teacher， 日语基础：五十音。 乌克丽丽基础已会。
+10.同上。
