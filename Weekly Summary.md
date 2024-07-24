@@ -65,7 +65,7 @@ Hint:
 ---
 ### (2024.7.22-7.26)
 1.  找工作：job street（Singapore）-pause。 了解、积累Chef,Coder的工作要求。 了解商业尽调员的机会。Family issue_divorce:Inquire about credit card installment.<br>
-2. Study Front-end : 目标P530,实际完成 。Delay reason:Mon-Insomnia.Tues-StudyBTC.Friday-带孩子去郑州博物馆+AppleToday. <br>
+2. Study Front-end : 目标P530,实际完成 。Delay reason:Mon-Insomnia.Tues-StudyBTC.Wed-追剧「新生」烂尾了真可恶。Friday-带孩子去郑州博物馆+AppleToday. <br>
 3. Investment: SPX500-index: NVDA:（2024.7.26）.<br>
 Hint: 
 （1）关注其他板块机会(川普交易、Robotaxi 受益股 、降息受益股、小盘股、Bitcoin ETF、及做空机会）
