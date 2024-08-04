@@ -93,5 +93,17 @@ Hint:
 8. 暑假学习/阅读计划：《数学的力量》，Apple Teacher， 日语基础：五十音。  
 ---
 ### (2024.8.5-8.9)
-1.test
+1.  找工作：job street（Singapore）-pause。 了解、积累Chef,Coder的工作、实习要求。Family issue_divorce:Inquire about credit card installment（12378-7）.<br>
+2. Study Front-end : 复习之前学的css+html。开始学习JS，计划学到80. <br>
+3. Investment: SPX500-index:5346. NVDA:107（2024.8.2）.<br>
+Hint: 
+（1）关注其他板块机会(川普交易、Robotaxi 受益股 、降息受益股、小盘股、Bitcoin ETF、及做空机会）
+(2) CryptoMining: 矿机在香港买，矿场在加拿大。 狗狗币或BTC。
+4. Cook: pause.
+5.  Reading/watching Notes: 
+ (1)(2) (3)(4)     
+6.  Start a business：（挖矿-咨询细节。）  
+7. Threads：无变化。
+8. 暑假学习/阅读计划：《数学的力量》，Apple Teacher， 日语基础：五十音。  
+
  ---
