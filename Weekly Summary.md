@@ -69,9 +69,7 @@ Hint:
 3. Investment: SPX500-index:5459. NVDA:113（2024.7.26）.<br>
 Hint: 
 （1）关注其他板块机会(川普交易、Robotaxi 受益股 、降息受益股、小盘股、Bitcoin ETF、及做空机会）
-(2) CryptoMining: 矿机在香港买，矿场在加拿大。 狗狗币或BTC。
-（3）  
-(4)  
+(2) CryptoMining: 矿机在香港买，矿场在加拿大。 狗狗币或BTC。 
 4. Cook: pause.
 5.  Reading/watching Notes: 
  (1)(2) (3)(4)     
@@ -79,3 +77,21 @@ Hint:
 7. Threads：无变化。
 8. 暑假学习/阅读计划：《数学的力量》，Apple Teacher， 日语基础：五十音。  
 9.有空的时候学-同上， 以后没有变化的项目每月FirstWeek写一次即可。
+---
+### (2024.7.29-8.2)
+1.  找工作：job street（Singapore）-pause。 了解、积累Chef,Coder的工作要求。 了解商业尽调员的机会。Family issue_divorce:Inquire about credit card installment（12378-7）.<br>
+2. Study Front-end : 实际完成540，已学完CSS+Html部分。 <br>
+3. Investment: SPX500-index:5346. NVDA:107（2024.8.2）.<br>
+Hint: 
+（1）关注其他板块机会(川普交易、Robotaxi 受益股 、降息受益股、小盘股、Bitcoin ETF、及做空机会）
+(2) CryptoMining: 矿机在香港买，矿场在加拿大。 狗狗币或BTC。
+4. Cook: pause.
+5.  Reading/watching Notes: 
+ (1)(2) (3)(4)     
+6.  Start a business：（考虑亚马逊开店？挖矿-咨询细节，设计方案。）  
+7. Threads：无变化。
+8. 暑假学习/阅读计划：《数学的力量》，Apple Teacher， 日语基础：五十音。  
+---
+### (2024.8.5-8.9)
+1.test
+ ---
