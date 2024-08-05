@@ -103,7 +103,7 @@ Hint:
 5.  Reading/watching Notes: 
  (1)(2) (3)(4)     
 6.  Start a business：（挖矿-咨询细节。）  
-7. Threads：无变化。
-8. 暑假学习/阅读计划：《数学的力量》，Apple Teacher， 日语基础：五十音。  
+7. Plans: 重点还是前端的学习（积累项目经验+找实习机会+ 学JavaScript）.<br>
+8. 暑假学习/阅读计划：《数学的力量》，Apple Teacher， 日语基础：五十音。 
 
  ---
