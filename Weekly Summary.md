@@ -97,7 +97,7 @@ Hint:
 2. Study Front-end : 复习之前学的css+html。开始学习JS，计划学到80. <br>
 3. Investment: SPX500-index:5346. NVDA:107（2024.8.2）.<br>
 Hint: 
-（1）关注其他板块机会(川普交易、Robotaxi 受益股 、降息受益股、小盘股、Bitcoin ETF、及做空机会）
+（1）关注其他板块机会(TLT, 川普交易、Robotaxi 受益股 、降息受益股、小盘股、Bitcoin ETF、及做空机会）
 (2) CryptoMining: 矿机在香港买，矿场在加拿大。 狗狗币或BTC。
 4. Cook: pause.
 5.  Reading/watching Notes: 
