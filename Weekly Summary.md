@@ -101,9 +101,11 @@ Hint:
 (2) CryptoMining: 矿机在香港买，矿场在加拿大。 狗狗币或BTC。
 4. Cook: pause.
 5.  Reading/watching Notes: 
- (1)(2) (3)(4)     
-6.  Start a business：（挖矿-咨询细节。）  
-7. August Plans: 重点还是前端的学习（积累项目经验+找实习机会+ 学JavaScript),去郑州咨询新东方厨师证费用+ 黑马网课视听课.<br>
-8. 暑假学习/阅读计划：《数学的力量》，Apple Teacher， 日语基础：五十音。 
+ (1) [咖啡店创业](https://github.com/AnniePopovici/Blog/blob/main/%E5%95%86%E4%B8%9A%E8%A7%82%E5%AF%9F.md) 
+
+(2) (3)(4)     
+7.  Start a business：（挖矿-咨询细节。）  
+8. August Plans: 重点还是前端的学习（积累项目经验+找实习机会+ 学JavaScript),去郑州咨询新东方厨师证费用+ 黑马网课视听课.<br>
+9. 暑假学习/阅读计划：《数学的力量》，Apple Teacher， 日语基础：五十音。 
 
  ---
