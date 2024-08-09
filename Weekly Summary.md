@@ -97,7 +97,7 @@ Hint:
 2. Study Front-end : 目标80,已完成.Review CSSpart. <br>
 3. Investment: SPX500-index:5346. NVDA:107（2024.8.2）.<br>
 Hint: 近期市场不确定性增加，看不懂的话，观望为主。
-（1）周一（8.6）日本意外加息，股市大跌。随后反弹4天。<br>
+（1）周一（8.6）日本意外加息，市场非常恐慌，股市大跌。随后反弹4天。<br>
 (2)  关注其他板块机会(TLT, 川普交易、Robotaxi 受益股 、降息受益股、小盘股、Bitcoin ETF、及做空机会）<br>
 4. Cook: pause.
 5.  Reading/watching Notes: 
