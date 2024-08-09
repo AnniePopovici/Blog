@@ -93,7 +93,7 @@ Hint:
 8. 暑假学习/阅读计划：《数学的力量》，Apple Teacher， 日语基础：五十音。  
 ---
 ### (2024.8.5-8.9)
-1.  找工作：job street（Singapore）-pause。 了解、积累Chef,Coder的工作、实习要求。Family issue_divorce:Inquire about credit card installment（12378-7）.<br>
+1.  找工作：job street（Singapore）-放弃。了解、积累Chef,Coder的工作、实习要求。Family issue_divorce:Inquire about credit card installment（12378-7）.<br>
 2. Study Front-end : 开始学习JS，计划学到80.Review CSSpart. <br>
 3. Investment: SPX500-index:5346. NVDA:107（2024.8.2）.<br>
 Hint: 
@@ -103,7 +103,7 @@ Hint:
 5.  Reading/watching Notes: 
  (1) [咖啡店创业](https://github.com/AnniePopovici/Blog/blob/main/%E5%95%86%E4%B8%9A%E8%A7%82%E5%AF%9F.md) 。总结：“选址定生死”。<br>
 (2) (3)(4)     
-7.  Start a business：（挖矿-咨询细节。）  
+7.  Start a business：（ 挖矿--因为资金问题暂时搁浅。 下周计划研究开个情趣用品外卖店的细节，开店费用多少？店铺选址？）  
 8. August Plans: 重点还是前端的学习（积累项目经验+找实习机会+ 学JavaScript),去郑州咨询新东方厨师证费用+ 黑马网课试听课.<br>
 9. 暑假学习/阅读计划：《数学的力量》，Apple Teacher， 日语基础：五十音。 
 
