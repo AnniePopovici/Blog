@@ -109,7 +109,7 @@ Hint: 近期市场不确定性增加，看不懂的话，观望为主。
 10. 本周特别事项: Review 2014年以来的weibo-mainThread.2014: 向往爱情，soccer,MacAir,西安.2015:想买MINI,crossWall,Apple Watch,Stock Investment,跳槽，320,part time-DiDi,十一Wuhan,30岁,扫地机器人,用上暖气.2016:Asics,Ecco,FirstDisneyShanghai,开始考虑孩子的大学问题,想带着孩子去看看。2017:滑雪，Airpods,想买小蓝针，十一去珠海，Sanya,ClubMed.SecondDisneyShanghai。2018:Nintendo Labo, 毕业10年了，Zeld,Peking,去深圳找工作,Merci Arsene,再次跳槽，住院，Jay concert,Prepare ACCA。十一：SecondZhuhai, First Hongkong Disneyland.2019:订阅Economist,Midlife Cirsis,WOWclassic,First Travle aboard-UK and NL。2020:Covid-19, Prepare ACCA F7,1stF7andAAexam.AppleAirposPro.想离开LY.Consider PET for kid.20021:Fight, feel isolation,3rd本命年,ACCA,begin to study Dutch, 省钱living,十一Chengdu,Ik denk aan haar.考了4次，终于通过了FR-52points.2022:SpringFsetival.Start to prepare IELTS.背单词,EMRS Master Offer被拒绝，咸鱼卖闲置物品，醒悟职场PUA，三年疫情终于结束。2023:IELTS,MasterProgrameOffer.Studing in NL.想孩子.2024:思考社会阶级分层,return to LY,divorce.<br>
  ---
 ### (2024.8.12-8.16)
-1.  找工作：了解、积累Chef,Coder的工作、实习要求。Family issue_divorce:确定最终方案.<br>
+1.  找工作：了解、积累Chef,Coder的工作、实习要求。Family issue_divorce:孩子如何抚养？离婚后会变得更好吗？.<br>
 2. Study Front-end :计划160.Review CSSpart. <br>
 3. Investment: SPX500-index:5346. NVDA:107（2024.8.2）.<br>
 Hint: 
