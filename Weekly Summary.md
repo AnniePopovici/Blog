@@ -109,8 +109,8 @@ Hint: 近期市场不确定性增加，看不懂的话，观望为主。
 10. Special issue this week: Review weibo history since 2014. MainThread.2014: 向往爱情，soccer,MacAir,西安.2015:想买MINI,crossWall,Apple Watch,Stock Investment,跳槽，320,part time-DiDi,十一Wuhan,30岁,扫地机器人,用上暖气.2016:Asics,Ecco,FirstDisneyShanghai,开始考虑孩子的大学问题,想带着孩子去看看。2017:滑雪，Airpods,想买小蓝针，十一去珠海，Sanya,ClubMed.SecondDisneyShanghai。2018:Nintendo Labo, 毕业10年了，Zeld,Peking,去深圳找工作,Merci Arsene,再次跳槽，住院，Jay concert,Prepare ACCA。十一：SecondZhuhai, First Hongkong Disneyland.2019:订阅Economist,Midlife Cirsis,WOWclassic,First Travle aboard-UK and NL。2020:Covid-19, Prepare ACCA F7,1stF7andAAexam.AppleAirposPro.想离开LY.Consider PET for kid.20021:Fight, feel isolation,3rd本命年,ACCA,begin to study Dutch, 省钱living,十一Chengdu,Ik denk aan haar.考了4次，终于通过了FR-52points.2022:SpringFsetival.Start to prepare IELTS.背单词,EMRS Master Offer被拒绝，咸鱼卖闲置物品，醒悟职场PUA，三年疫情终于结束。2023:IELTS,MasterProgrameOffer.Studing in NL.想孩子.2024:思考社会阶级分层,return to LY,divorce.<br>
  ---
 ### (2024.8.12-8.16)
-1.  找工作：了解、积累Chef,Coder的工作、实习要求。Family issue_divorce:交行协商分分期.孩子如何抚养？离婚后会变得更好吗？.<br>
-2. Study Front-end :计划160.ReviewJavaScript已学部分（内容较多，需要理解其中的逻辑.CSS有空了再看吧.<br>
+1.  找工作：了解、积累Chef,Coder的工作、实习要求。Family issue_divorce:交行协商分期.<br>
+2. Study Front-end :计划160.ReviewJavaScript已学部分（内容较多，需要理解其中的逻辑).CSS有空了再看吧.<br>
 3. Investment: SPX500-index:5346. NVDA:107（2024.8.2）.<br>
 Hint: 
 （1）关注其他板块机会(TLT-长期美国国债ETF, 川普交易、Robotaxi 受益股 、降息受益股、小盘股、Bitcoin ETF、及做空机会）<br>
@@ -119,7 +119,22 @@ Hint:
 5.  Reading/watching Notes: 
  (1)  
 (2) (3)(4)     
-7.  Start a business：（ 计划研究开个情趣用品外卖店的细节，开店费用多少？店铺选址(刘博)？）  
+7.  Start a business：n.a.
 8. August Plans: 重点还是前端的学习（积累项目经验+找实习机会+ 学JavaScript),去郑州咨询新东方厨师证费用+ 黑马网课试听课.<br>
 9. 暑假学习/阅读计划：《数学的力量》，Apple Teacher， 日语基础：五十音。 
  ---
+ ### (2024.8.19-8.23)
+ 1.  找工作：了解、积累Chef,Coder的工作、实习要求。Family issue_divorce:分居协议、孩子抚养，分居后是为了过的更好.<br>
+2. Study Front-end :计划240.ReviewJavaScript已学部分.CSS.<br>
+3. Investment: SPX500-index:5346. NVDA:107（2024.8.2）.<br>
+Hint: 
+（1）关注其他板块机会(TLT-长期美国国债ETF, 川普交易、Robotaxi 受益股 、降息受益股、小盘股、Bitcoin ETF）<br>
+(2)  
+4. Cook: pause.
+5. Reading/watching Notes: 
+ (1)  
+(2) (3)(4)     
+7.  Start a business：n.a.
+8. August Plans: 重点还是前端的学习（积累项目经验+找实习机会+ 学JavaScript),去郑州咨询新东方厨师证费用+ 黑马网课试听课.<br>
+9. 暑假学习/阅读计划：《数学的力量》，Apple Teacher， 日语基础：五十音。 
+
