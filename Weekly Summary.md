@@ -110,7 +110,7 @@ Hint: 近期市场不确定性增加，看不懂的话，观望为主。
  ---
 ### (2024.8.12-8.16)
 1.  找工作：了解、积累Chef,Coder的工作、实习要求。Family issue_divorce:交行协商分分期.孩子如何抚养？离婚后会变得更好吗？.<br>
-2. Study Front-end :计划160.Review CSSpart. <br>
+2. Study Front-end :计划160.ReviewJavaScript已学部分（内容较多，需要理解其中的逻辑）. <br>
 3. Investment: SPX500-index:5346. NVDA:107（2024.8.2）.<br>
 Hint: 
 （1）关注其他板块机会(TLT-长期美国国债ETF, 川普交易、Robotaxi 受益股 、降息受益股、小盘股、Bitcoin ETF、及做空机会）
