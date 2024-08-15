@@ -117,7 +117,7 @@ Hint:
 (2) call是看涨期权，put是看跌期权.<br>
 4. Cook: pause.
 5.  Reading/watching Notes: 
- (1)  
+ (1) 看完了<燃烧>、<绿洲>的电影解说，李沧东的电影后劲太大了，很有深度。'Little hunger,great hunger'。自己非常有感触。自己以前是litter hunger,现在是great hunger.<br>
 (2) (3)(4)     
 7.  Start a business：n.a.
 8. August Plans: 重点还是前端的学习（积累项目经验+找实习机会+ 学JavaScript),去郑州咨询新东方厨师证费用+ 黑马网课试听课.<br>
