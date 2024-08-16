@@ -128,10 +128,11 @@ Hint:
 2. Study Front-end :计划240.ReviewJavaScript已学部分.CSS.<br>
 3. Investment: SPX500-index:5346. NVDA:107（2024.8.2）.<br>
 Hint: 
-（1）关注其他板块机会(TLT-长期美国国债ETF, 川普交易、Robotaxi 受益股 、降息受益股、小盘股、Bitcoin ETF）<br>
-(2)  
-4. Cook: pause.
-5. Reading/watching Notes: 
+(1)调整结束，计划趁低买入NVDA.<br>
+(2)因为本金仅剩$2000，学习option知识，打算加杠杆.<br>
+(3)关注其他板块机会(TLT-长期美国国债ETF, 川普交易、Robotaxi 受益股 、降息受益股、小盘股、Bitcoin ETF）<br>
+5. Cook: pause.
+6. Reading/watching Notes: 
  (1)  
 (2) (3)(4)     
 7.  Start a business：n.a.
