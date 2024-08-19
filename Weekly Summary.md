@@ -111,7 +111,7 @@ Hint: 近期市场不确定性增加，看不懂的话，观望为主。
 ### (2024.8.12-8.16)
 1.  找工作：了解、积累Chef,Coder的工作、实习要求。Family issue_divorce:交行协商分期.<br>
 2. Study Front-end :计划160.ReviewJavaScript已学部分（内容较多，需要理解其中的逻辑).CSS有空了再看吧.<br>
-3. Investment: SPX500-index:5346. NVDA:107（2024.8.2）.<br>
+3. Investment: SPX500-index:5554. NVDA:124.58（2024.8.16).<br>
 Hint: 
 （1）关注其他板块机会(TLT-长期美国国债ETF, 川普交易、Robotaxi 受益股 、降息受益股、小盘股、Bitcoin ETF、及做空机会）<br>
 (2) call是看涨期权，put是看跌期权.<br>
@@ -124,9 +124,9 @@ Hint:
 9. 暑假学习/阅读计划：《数学的力量》，Apple Teacher， 日语基础：五十音。 
  ---
  ### (2024.8.19-8.23)
- 1.  找工作：了解、积累Chef,Coder的工作、实习要求。Family issue_divorce:分居协议、孩子抚养，分居后是为了过的更好.<br>
-2. Study Front-end :计划240.ReviewJavaScript已学部分.CSS.<br>
-3. Investment: SPX500-index:5346. NVDA:107（2024.8.2）.<br>
+ 1.  找工作：了解、积累Chef,Coder的工作、实习要求（zsq:北上广前端实习机会多，郑州的软件公司多是全栈开发，没有前端单独的实习机会）。Family issue_divorce:交行、光大协商分期。草拟分居协议、孩子抚养，分居后是为了过的更好.<br>
+3. Study Front-end :计划240.ReviewJavaScript已学部分.CSS.<br>
+4. Investment: SPX500-index:5346. NVDA:107（2024.8.2）.<br>
 Hint: 
 (1)调整结束，计划趁低买入NVDA.<br>
 (2)因为本金仅剩$2000，学习option知识，打算加杠杆.<br>
