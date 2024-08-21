@@ -133,7 +133,7 @@ Hint:
 (3)关注其他板块机会(TLT-长期美国国债ETF, 川普交易、Robotaxi 受益股 、降息受益股、小盘股、Bitcoin ETF）<br>
 5. Cook: pause.
 6. Reading/watching Notes: 
- (1) 《中国社会阶层划分》
+ (1) 《中国社会阶层划分》，结合上周看完的《燃烧》，心灵再次震撼。
 (2) (3)(4)     
 7.  Start a business：n.a.
 8. August Plans: 重点还是前端的学习（积累项目经验+找实习机会+ 学JavaScript),去郑州咨询新东方厨师证费用+ 黑马网课试听课.<br>
