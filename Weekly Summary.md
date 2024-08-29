@@ -125,7 +125,7 @@ Hint:
  ---
  ### (2024.8.19-8.23)
  1.  找工作：了解、积累Chef,Coder的工作、实习要求（zsq:北上广前端实习机会多，郑州的软件公司多是全栈开发，没有前端单独的实习机会）。Family issue_divorce:交行、光大协商分期。草拟分居协议、孩子抚养，分居后是为了过的更好.<br>
-3. Study Front-end :实际195（计划240）.ReviewJavaScript已学部分.CSS.<br>
+3. Study Front-end :实际195（计划240）,DelayReason: 回父母家住了一天，回父母家2天.ReviewJavaScript已学部分.CSS.<br>
 4. Investment: SPX500-index:5643. NVDA:129（2024.8.23）.<br>
 Hint: 
 (1)调整结束，计划趁低买入NVDA.<br>
