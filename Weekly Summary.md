@@ -141,7 +141,9 @@ Hint:
 
      ### (2024.8.26-8.30)
  1.  找工作：了解、积累Chef,Coder的工作、实习要求（zsq:北上广前端实习机会多，郑州的软件公司多是全栈开发，没有前端单独的实习机会）。<br>
-3. Study Front-end :计划280.ReviewJavaScript已学部分.CSS.<br>
+[阮一峰-谁在招人-前端工程师] (https://github.com/ruanyf/weekly/issues/4911#issuecomment-2267251463), 职位要求:1.五年以上工作经验，本科及以上学历，计算机、软件相关专业；2.优秀的系统设计和架构能力，熟悉前后端系统设计和开发流程
+3.有良好的数据结构和算法基础，扎实的编程能力4.熟悉主流的前端开发框架及工具链，有良好的架构预见能力及技术前瞻性5.深刻理解浏览器原理，熟悉服务治理、性能分析、网络协议;有协同文档开发经验者优先，有跨端经验者优先 <br>
+3. Study Front-end : 实际230（计划280，Delay原因为家庭事务）.ReviewJavaScript已学部分.CSS.<br>
 4. Investment: SPX500-index:5346. NVDA:107（2024.8.2）.<br>
 Hint: 
 (1)学习Option,积累经验，慎用杠杆。<br>
@@ -149,9 +151,24 @@ Hint:
 (3)关注其他板块机会(TLT-长期美国国债ETF, 川普交易、Robotaxi 受益股 、降息受益股、小盘股、Bitcoin ETF）<br>
 5. Cook: pause.
 6. Reading/watching Notes: 
- (1) [为什么上财、央财、西财这几年在好多省份的分数线骤降？](https://www.zhihu.com/question/523701352/answer/2438441547)，summary:金融本质是数学，但是本科生数学都不行，数学不好的话只能去做销售。具体到自己来说：专业知识不行（数学不行），人脉不行，情商不行。So金融真的不适合我，赶紧转型。<br>
+ (1) 
 (2) (3)(4)     
 7.  Start a business：n.a.
 8. August Plans: 重点还是前端的学习（积累项目经验+找实习机会+ 学JavaScript),去郑州咨询新东方厨师证费用+ 黑马网课试听课.<br>
 9. 暑假学习/阅读计划：《数学的力量》，Apple Teacher， 日语基础：五十音（Delay）。 
 
+  ### (2024.9.2-9.6)
+ 1.  找工作：了解、积累Chef,Coder的工作、实习机会<br>
+3. Study Front-end :计划280.ReviewJavaScript已学部分.CSS.<br>
+4. Investment: SPX500-index:5346. NVDA:107（2024.8.2）.<br>
+Hint: 
+(1)
+(2)<br>
+(3)关注其他板块机会(TLT-长期美国国债ETF, 川普交易、Robotaxi 受益股 、降息受益股、小盘股、Bitcoin ETF）<br>
+5. Cook: pause.
+6. Reading/watching Notes: 
+ (1) 
+(2) (3)(4)     
+7.  Start a business：n.a.
+8. Long Term Plans: 重点还是前端的学习（积累项目经验+找实习机会+ 学JavaScript),去郑州咨询新东方厨师证费用+ 黑马网课试听课.<br>
+9. 阅读计划：《数学的力量》，Apple Teacher， 日语基础：五十音（Delay）。 
