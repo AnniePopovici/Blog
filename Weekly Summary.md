@@ -143,7 +143,7 @@ Hint:
  1.  找工作：了解、积累Chef,Coder的工作、实习要求（zsq:北上广前端实习机会多，郑州的软件公司多是全栈开发，没有前端单独的实习机会）。<br>
 [阮一峰-谁在招人-前端工程师] (https://github.com/ruanyf/weekly/issues/4911#issuecomment-2267251463), 职位要求:1.五年以上工作经验，本科及以上学历，计算机、软件相关专业；2.优秀的系统设计和架构能力，熟悉前后端系统设计和开发流程
 3.有良好的数据结构和算法基础，扎实的编程能力4.熟悉主流的前端开发框架及工具链，有良好的架构预见能力及技术前瞻性5.深刻理解浏览器原理，熟悉服务治理、性能分析、网络协议;有协同文档开发经验者优先，有跨端经验者优先 <br>
-3. Study Front-end : 实际230（计划280，Delay原因为家庭事务）.ReviewJavaScript已学部分.CSS.<br>
+3. Study Front-end : 实际240（计划280，Delay原因为家庭事务）.ReviewJavaScript已学部分.CSS.<br>
 4. Investment: SPX500-index:5346. NVDA:107（2024.8.2）.<br>
 Hint: 
 (1)学习Option,积累经验，慎用杠杆。<br>
@@ -158,8 +158,8 @@ Hint:
 9. 暑假学习/阅读计划：《数学的力量》，Apple Teacher， 日语基础：五十音（Delay）。 
 
   ### (2024.9.2-9.6)
- 1.  找工作：了解、积累Chef,Coder的工作、实习机会<br>
-3. Study Front-end :计划310.ReviewJavaScript已学部分.CSS.<br>
+ 1.  找工作：了解、积累Chef,Coder的工作、实习机会.<br>
+3. Study Front-end :计划320.ReviewJavaScript已学部分.CSS.<br>
 4. Investment: SPX500-index:5346. NVDA:107（2024.8.2）.<br>
 Hint: 
 (1)
