@@ -160,6 +160,7 @@ Hint:
 ---
   ### (2024.9.2-9.6)
  1.  找工作：了解、积累Chef,Coder的工作、实习机会.<br>
+ 2.本周额外事项：了解澳大利亚移民政策，482签证.<br>
 3. Study Front-end :计划320.ReviewJavaScript已学部分.CSS.<br>
 4. Investment: SPX500-index:5346. NVDA:107（2024.8.2）.<br>
 Hint: 
