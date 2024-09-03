@@ -90,7 +90,8 @@ Hint:
  (1)(2) (3)(4)     
 6.  Start a business：（考虑亚马逊开店？挖矿-咨询细节，设计方案。）  
 7. Threads：无变化。
-8. 暑假学习/阅读计划：《数学的力量》，Apple Teacher， 日语基础：五十音。  
+8. 暑假学习/阅读计划：《数学的力量》，Apple Teacher， 日语基础：五十音。
+9. 7月支出Summary: 幼儿园6700，吃饭+买菜1300，物业470，太谷450，汽车保养250，泳裤50，合计10900.
 ---
 ### (2024.8.5-8.9)
 1.  找工作：job street（Singapore）-放弃。了解、积累Chef,Coder的工作、实习要求。Family issue_divorce:Inquire about credit card installment（12378-7）.<br>
