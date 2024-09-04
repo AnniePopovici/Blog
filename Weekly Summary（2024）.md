@@ -175,4 +175,5 @@ Hint:
 (2) (3)(4)     
 7.  Start a business：n.a.
 8. Long Term Plans: 重点还是前端的学习（积累项目经验+找实习机会+ 学JavaScript),黑马网课试听课.<br>
-9. 阅读计划：《数学的力量》，Apple Teacher， 日语基础：五十音（Delay）。 
+9. 阅读计划：《数学的力量》，Apple Teacher， 日语基础：五十音（Delay）。
+10. 历年支出（数据来源，随手记，不一定准确，不含房贷、还款).2014:109K.2015:63K.2016:87K.2017:121k.2018:115k.2019:187k(UKtour).2020:91k.2021:131K(MINI-EV:44K).2022:76K.2023:292K(StudyAboard221K).
