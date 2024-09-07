@@ -171,7 +171,7 @@ Hint:
 (3)关注其他板块机会(TLT-长期美国国债ETF, 川普交易、Robotaxi 受益股 、降息受益股、小盘股、Bitcoin ETF）<br>
 5. Cook: pause.
 6. Reading/watching Notes: 
- (1) 
+ (1) <hight>我认为家长分为4个档次。FirstClass的家长把资源、人脉、和经验都传授给孩子，孩子在“巨人的肩膀上”更进一步。Such as谷爱凌。SecondCLass的家长忙于赚钱，没时间陪孩子，孩子虽然缺乏家长的陪伴，但是物质条件充足。Such as王思聪。ThirdClass家长，也是最多的普通职工家长，尽自己所能给孩子提供最好的，但是受制于自身教育和认知水平，在孩子求学、求职上无法给予指导。FourthClass家长，只管生不顾养和教育，任其自由发展，主打一个以数量取胜。<hight><br>
 (2) (3)(4)     
 7.  Start a business：n.a.
 8. Long Term Plans: 重点还是前端的学习（积累项目经验+找实习机会+ 学JavaScript),黑马网课试听课.<br>
