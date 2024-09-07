@@ -172,7 +172,7 @@ Hint:
 5. Cook: pause.
 6. Reading/watching Notes: 
  (1) <mark>我认为家长分为4个档次。FirstClass的家长把资源、人脉、和经验都传授给孩子，孩子在“巨人的肩膀上”更进一步。Such as谷爱凌。SecondCLass的家长忙于赚钱，没时间陪孩子，孩子虽然缺乏家长的陪伴，但是物质条件充足。Such as王思聪。ThirdClass家长，也是最多的普通职工家长，尽自己所能给孩子提供最好的，但是受制于自身教育和认知水平，在孩子求学、求职上无法给予指导。FourthClass家长，只管生不顾养和教育，任其自由发展，主打一个以数量取胜。<mark><br>
-(2) (3)(4)     
+(2)求导e^x=e^x.(3)(4)     
 7.  Start a business：n.a.
 8. Long Term Plans: 重点还是前端的学习（积累项目经验+找实习机会+ 学JavaScript),黑马网课试听课.<br>
 9. 阅读计划：《数学的力量》，Apple Teacher， 日语基础：五十音（Delay）。
