@@ -164,10 +164,10 @@ Hint:
 1.  找工作：了解、积累Chef,Coder的工作、实习机会.<br>
 2.本周额外事项：了解澳大利亚移民政策，482签证:只了解到剔骨工、电焊工,下周继续。<br>
 3. Study Front-end :实际320.（计划330).ReviewJavaScript已学部分.CSS.<br>
-4. Investment: SPX500-index:5346. NVDA:107（2024.8.2）.<br>
+4. Investment: SPX500-index:5408. NVDA:102.82（2024.9.6）.<br>
 Hint: 
-(1)
-(2)<br>
+(1)本周又开始调整了，芯片股领跌。市场在消化9月降息的预期。CutInterestRate25or50bp? That's a question.<br>
+(2)
 (3)关注其他板块机会(TLT-长期美国国债ETF, 川普交易、Robotaxi 受益股 、降息受益股、小盘股、Bitcoin ETF）<br>
 5. Cook: pause.
 6. Reading/watching Notes: 
