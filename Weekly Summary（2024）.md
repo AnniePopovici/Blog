@@ -162,8 +162,8 @@ Hint:
 ---
   ### (2024.9.2-9.6)
 1.  找工作：了解、积累Chef,Coder的工作、实习机会.<br>
-2.本周额外事项：了解澳大利亚移民政策，482签证.<br>
-3. Study Front-end :计划330.ReviewJavaScript已学部分.CSS.<br>
+2.本周额外事项：了解澳大利亚移民政策，482签证:只了解到剔骨工、电焊工,下周继续。<br>
+3. Study Front-end :实际320.（计划330).ReviewJavaScript已学部分.CSS.<br>
 4. Investment: SPX500-index:5346. NVDA:107（2024.8.2）.<br>
 Hint: 
 (1)
@@ -177,3 +177,21 @@ Hint:
 8. Long Term Plans: 重点还是前端的学习（积累项目经验+找实习机会+ 学JavaScript),黑马网课试听课.<br>
 9. 阅读计划：《数学的力量》，Apple Teacher， 日语基础：五十音（Delay）。
 10. 历年支出（数据来源，随手记，不一定准确，不含房贷、还款).2014:109K.2015:63K.2016:87K.2017:121k.2018:115k.2019:187k(UKtour).2020:91k.2021:131K(MINI-EV:44K).2022:76K.2023:292K(StudyAboard221K).
+ ---
+  ### (2024.9.9-9.13)
+1.  找工作：了解、积累Chef,Coder的工作、实习机会.<br>
+2. 本周额外事项：了解澳大利亚移民政策，482签证: 剔骨工、电焊工,其他工作机会。<br>
+3. Study Front-end :计划400.ReviewJavaScript已学部分.CSS.<br>
+4. Investment: SPX500-index:5346. NVDA:107（2024.8.2）.<br>
+Hint: 
+(1)
+(2)<br>
+(3)关注其他板块机会(TLT-长期美国国债ETF, 川普交易、Robotaxi 受益股 、降息受益股、小盘股、Bitcoin ETF）<br>
+5. Cook: pause.
+6. Reading/watching Notes: 
+ (1) (2)(3)(4)     
+7.  Start a business：n.a.
+8. Long Term Plans: 重点还是前端的学习（积累项目经验+找实习机会+ 学JavaScript),黑马网课试听课.<br>
+9. 阅读计划：《数学的力量》，Apple Teacher， 日语基础：五十音（Delay）。
+---
+  ### (2024.9.16-9.20)
