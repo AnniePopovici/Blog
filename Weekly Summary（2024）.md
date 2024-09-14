@@ -181,7 +181,7 @@ Hint:
   ### (2024.9.9-9.13)
 1.  找工作：了解、积累Chef,Coder的工作、实习机会.<br>
 2. 本周额外事项：了解澳大利亚移民政策，482签证: 剔骨工、电焊工,其他工作机会。<br>
-3. Study Front-end :实际340（计划400）Delay原因：Mon.帮妈妈转移手机数据。Tues.去机场送妈妈。Wed.Annie牙疼，下午发现爸爸再次受骗。Thurs.去经侦大队咨询立案结果。Fri.上午睡觉，下午去串串香。ReviewJavaScript已学部分.CSS.<br>
+3. Study Front-end :实际340，重点学习轮播图Carousel.（计划400）Delay原因：Mon.帮妈妈转移手机数据。Tues.去机场送妈妈。Wed.Annie牙疼，下午发现爸爸再次受骗。Thurs.去经侦大队咨询立案结果。Fri.上午睡觉，下午去串串香。ReviewJavaScript已学部分.CSS.<br>
 4. Investment: SPX500-index:5346. NVDA:107（2024.8.2）.<br>
 Hint: 
 (1)
