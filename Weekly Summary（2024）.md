@@ -180,13 +180,13 @@ Hint:
  ---
   ### (2024.9.9-9.13)
 1.  找工作：了解、积累Chef,Coder的工作、实习机会.<br>
-2. 本周额外事项：了解澳大利亚移民政策，482签证: 剔骨工、电焊工,其他工作机会。<br>
-3. Study Front-end :实际340，重点学习轮播图Carousel.（计划400）Delay原因：Mon.帮妈妈转移手机数据。Tues.去机场送妈妈。Wed.Annie牙疼，下午发现爸爸再次受骗。Thurs.去经侦大队咨询立案结果,上午、下午去了两次。Fri.上午睡觉，下午去串串香。ReviewJavaScript已学部分.CSS.<br>
-4. Investment: SPX500-index:5346. NVDA:107（2024.8.2）.<br>
-Hint: 
-(1)
-(2)<br>
-(3)关注其他板块机会(TLT-长期美国国债ETF, 川普交易、Robotaxi 受益股 、降息受益股、小盘股、Bitcoin ETF）<br>
+2. 本周额外事项：了解澳大利亚移民政策，482签证: 剔骨工、电焊工,其他工作机会。家庭事务：拉黑妻子微信。<br>
+3. Study Front-end :实际350，重点学习轮播图Carousel.（计划400）Delay原因：Mon.帮妈妈转移手机数据。Tues.去机场送妈妈。Wed.Annie牙疼，下午发现爸爸再次受骗。Thurs.去经侦大队咨询立案结果,上午、下午去了两次。Fri.上午睡觉，下午去串串香。ReviewJavaScript已学部分.CSS.<br>
+4. Investment: SPX500-index:5626. NVDA:119（2024.9.13）.<br>
+Summary & Hint: 
+(1) 本周持续反弹.
+(2)关注以下机会：TLT-长期美国国债ETF，小盘股，降息受益股。总之就是市场风格还在转换，继续消化降息预期。
+(3)<br>
 5. Cook: pause.
 6. Reading/watching Notes: 
  (1) (2)(3)(4)     
@@ -195,3 +195,18 @@ Hint:
 9. 阅读计划：《数学的力量》，Apple Teacher， 日语基础：五十音（Delay）。
 ---
   ### (2024.9.16-9.20)
+1.  找工作：了解、积累Chef,Coder的工作、实习机会.<br>
+2. 本周额外事项：有抑郁症的症状，去看心理医生.<br>
+3. Study Front-end :计划430。ReviewJavaScript已学部分.CSS.<br>
+4. Investment: SPX500-index:n.a. NVDA:n.a（2024.9.27）.<br>
+Hint: 
+(1)
+(2)
+(3)<br>
+5. Cook: pause.
+6. Reading/watching Notes: 
+ (1) (2)(3)(4)     
+7.  Start a business：n.a.
+8. Long Term Plans: 重点还是前端的学习（积累项目经验+找实习机会+ 学JavaScript),黑马网课试听课.<br>
+9. 阅读计划：《数学的力量》，Apple Teacher， 日语基础：五十音（Delay）。
+---
