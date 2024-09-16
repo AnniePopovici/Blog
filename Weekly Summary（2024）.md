@@ -198,7 +198,7 @@ Summary & Hint:
 1.  找工作：了解、积累Chef,Coder的工作、实习机会.<br>
 2. 本周额外事项：有抑郁症的症状，去看心理医生.<br>
 3. Study Front-end :计划430。ReviewJavaScript已学部分.CSS.<br>
-4. Investment: SPX500-index:n.a. NVDA:n.a（2024.9.27）.<br>
+4. Investment: SPX500-index:n.a. NVDA:n.a（2024.9.20）.<br>
 Hint: 
 (1)
 (2)
