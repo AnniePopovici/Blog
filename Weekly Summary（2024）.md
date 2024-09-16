@@ -189,7 +189,7 @@ Summary & Hint:
 (3)<br>
 5. Cook: pause.
 6. Reading/watching Notes: 
- (1) (2)(3)(4)     
+ (1)‘穷人才是富人最大的资产。富人要维持最好的生活，购买最好的服务，最重要的，并不是要赚足够多的钱，而是要维持足够多的穷人。’ (2)(3)(4)     
 7.  Start a business：n.a.
 8. Long Term Plans: 重点还是前端的学习（积累项目经验+找实习机会+ 学JavaScript),黑马网课试听课.<br>
 9. 阅读计划：《数学的力量》，Apple Teacher， 日语基础：五十音（Delay）。
