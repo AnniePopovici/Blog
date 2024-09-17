@@ -195,7 +195,7 @@ Summary & Hint:
 9. 阅读计划：《数学的力量》，Apple Teacher， 日语基础：五十音（Delay）。
 ---
   ### (2024.9.16-9.20)
-1.  找工作：了解、积累Chef,Coder的工作、实习机会.<br>
+1.  找工作：了解programmer的实习机会、工作要求。准备新东方Chef的入学要求。<br>
 2. 本周额外事项：有抑郁症的症状，去看心理医生.<br>
 3. Study Front-end :计划430。ReviewJavaScript已学部分.CSS.<br>
 4. Investment: SPX500-index:n.a. NVDA:n.a（2024.9.20）.<br>
