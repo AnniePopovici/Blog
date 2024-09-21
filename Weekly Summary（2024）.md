@@ -198,9 +198,9 @@ Summary & Hint:
 1.  找工作：了解programmer的实习机会、工作要求。准备新东方Chef的入学要求。<br>
 2. 本周额外事项：9.19确诊抑郁症和焦虑症的症状（不是抑郁症和焦虑症）.性格偏执.艾森克人格问卷（ Eysenck Personality Questionnaire,EPQ）<br>
 3. Study Front-end :顺其自然，以治疗为主。ReviewJavaScript已学部分.CSS.<br>
-4. Investment: SPX500-index:n.a. NVDA:n.a（2024.9.20）.<br>
+4. Investment: SPX500-index:5702. NVDA:238.（2024.9.20）.<br>
 Hint: 
-(1)
+(1)本周宣布降息50b,开启新一轮降息周期.
 (2)
 (3)<br>
 5. Cook: pause.
@@ -209,4 +209,5 @@ Hint:
 7.  Start a business：n.a.
 8. Long Term Plans: 重点还是前端的学习（积累项目经验+找实习机会+ 学JavaScript),黑马网课试听课.<br>
 9. 阅读计划：《数学的力量》，Apple Teacher， 日语基础：五十音（Delay）。
+10. 下周开始暂停更新周报，原因为治疗抑郁症和耳聋。<br>
 ---
