@@ -220,11 +220,8 @@ Hint:
 【一口气搞清楚ChatGPT | 牛X在哪？谁会失业？巨头商战...】 (https://www.bilibili.com/video/BV1rj41137cr/?share_source=copy_web&vd_source=7ad44046eff41eb6468b17d2a7831166) 
 (2)
 8.43 06/09 d@a.nQ AGI:/ 神经网络是啥 它为啥能得诺奖 # 科技 # 语言 # 数学 # 历史 # 诺贝尔奖  https://v.douyin.com/iD2wWdXj/ 复制此链接，打开Dou音搜索，直接观看视频！
-
 (3)
 7.69 DhO:/ 10/29 H@I.iP 90分钟深度！一口气看明白人工智能和神经网络 视频使用素材来自： 3blue1brown Artem Kirsanov 使用manim引擎制作# 人工智能 # 2024诺贝尔奖 # 知识前沿派对 # 科学高光故事集 # 一口气看完系列  https://v.douyin.com/iD2wE985/ 复制此链接，打开Dou音搜索，直接观看视频！
-
-
 <br>
 ---
 
