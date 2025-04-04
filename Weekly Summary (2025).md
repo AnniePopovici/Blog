@@ -76,4 +76,7 @@ Web3.0是用户主导的Ecosystem,去中心化,区块链，加密货币,StableCo
 2.本周买了几个DOGE，开始尝试投机虚拟货币。继续阅读《蛤蟆先生去看心理医生》，自我治疗，this book is fucking great，关心自己的内心感受。<br>
 3. “本我(Id)是欲望，超我(Superego)是约束，自我(Ego)是现实的调解员。”——三者平衡时，人格健康；失衡时，产生心理问题。<br>
 
+## 2025.4.4.
+1.（https://csdiy.wiki/）CS自学
+
 
