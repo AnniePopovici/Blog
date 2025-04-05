@@ -77,6 +77,7 @@ Web3.0是用户主导的Ecosystem,去中心化,区块链，加密货币,StableCo
 3. “本我(Id)是欲望，超我(Superego)是约束，自我(Ego)是现实的调解员。”——三者平衡时，人格健康；失衡时，产生心理问题。<br>
 
 ## 2025.4.4.
-1.[ComputerScience自学指南](https://csdiy.wiki)
+1.[ComputerScience自学指南](https://csdiy.wiki)，中远期自学目标。<br>
+2.
 
 
